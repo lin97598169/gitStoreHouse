@@ -1,2 +1,2 @@
-wo haokun ,haoxiangshuijue ,xianghehca,danshibukeyiaa
-aaaaaaasssssss
+Git is a distributed version control system.
+Git is free software.
